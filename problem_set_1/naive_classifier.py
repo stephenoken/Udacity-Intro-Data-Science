@@ -1,7 +1,16 @@
 class NaiveBayes:
+    def partition_outcomes(self, xy):
+        if len(xy) == 0:
+            return []
+        x = xy[0]
+        result = (x[0],) if x[1] == 0 else (None, x[0])
+        return [result] + self.partition_outcomes(xy[1:])
 
     def fit(self, X, Y):
-       pass 
+        (living, dead) = self.partition_outcomes(zip(X, Y))
+        print(living)
+        print("######")
+        print(dead)
 
 
 def sex_feature(sex):
