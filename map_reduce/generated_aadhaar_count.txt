@@ -1,0 +1,528 @@
+Ranchi	748.0
+Surat	1.0
+Kangra	47.0
+Chhindwara	3223.0
+Ahmadnagar	552.0
+Ahmed Nagar	0.0
+Akola	55.0
+Amravati	11.0
+Aurangabad	533.0
+Beed	342.0
+Bhandara	42.0
+Buldhana	893.0
+Chandrapur	8.0
+Gadchiroli	275.0
+Gondiya	6.0
+Jalgaon	1191.0
+Jalna	422.0
+Kolhapur	665.0
+Nagpur	155.0
+Nandurbar	29.0
+Nashik	1532.0
+Pune	1308.0
+Raigarh	252.0
+Sangli	4017.0
+Satara	945.0
+Thane	2575.0
+Wardha	8.0
+Washim	282.0
+Yavatmal	469.0
+Lakhisarai	5.0
+Madhubani	30.0
+Nawada	20.0
+Patna	50.0
+Purnia	3.0
+Bilaspur	2.0
+Durg	7.0
+Koriya	6.0
+Sahebganj	2269.0
+Anuppur	1938.0
+Ashok Nagar	72.0
+Barwani	764.0
+Bhind	1770.0
+Bhopal	448.0
+Chhatarpur	4232.0
+Damoh	3559.0
+Dewas	230.0
+Dhar	7190.0
+Dindori	612.0
+Guna	2372.0
+Hoshangabad	22.0
+Indore	2358.0
+Jabalpur	278.0
+Jhabua	2256.0
+Katni	609.0
+Khandwa	261.0
+Khargone	4020.0
+Mandsaur	72.0
+Morena	2191.0
+Narsinghpur	863.0
+Panna	4102.0
+Raisen	1008.0
+Rajgarh	41.0
+Ratlam	286.0
+Rewa	6550.0
+Sagar	4302.0
+Satna	4376.0
+Sehore	805.0
+Seoni	299.0
+Shahdol	3700.0
+Shajapur	98.0
+Shivpuri	698.0
+Sidhi	2357.0
+Singrauli	2309.0
+Tikamgarh	2217.0
+Ujjain	913.0
+Umaria	1992.0
+Vidisha	887.0
+Mumbai	937.0
+Ajmer	527.0
+Alwar	303.0
+Baran	101.0
+Bharatpur	1161.0
+Bhilwara	1547.0
+Bundi	44.0
+Chittorgarh	98.0
+Churu	18.0
+Dausa	175.0
+Dholpur	278.0
+Ganganagar	750.0
+Hanumangarh	101.0
+Jaipur	1595.0
+Jhalawar	141.0
+Jhunjhunu	0.0
+Jhunjhunun	119.0
+Karauli	464.0
+Nagaur	225.0
+Sawai Madhopur	168.0
+Sikar	600.0
+Tonk	275.0
+Udaipur	116.0
+Etawah	9.0
+Jaunpur	19.0
+Kheri	9.0
+Kushinagar	15.0
+Mainpuri	9.0
+Nadia	31.0
+East Champaran	19.0
+Muzaffarpur	21.0
+Fatehabad	307.0
+Jind	1154.0
+Mahendragarh	1118.0
+Sirsa	1812.0
+Barnala	3.0
+Hoshiarpur	1297.0
+Ludhiana	503.0
+Mansa	942.0
+Moga	315.0
+Patiala	3.0
+Sangrur	346.0
+Gonda	11.0
+Sultanpur	9.0
+Belgaum	697.0
+Bijapur	11.0
+Betul	1473.0
+Ratnagiri	26.0
+Sindhudurg	11.0
+Solapur	700.0
+Ganjam	21.0
+Ballia	32.0
+Pilibhit	2.0
+Prakasam	7.0
+Araria	3.0
+Banka	46.0
+Begusarai	7.0
+Bhagalpur	27.0
+Bhojpur	28.0
+Gopalganj	22.0
+Nalanda	18.0
+Saran	26.0
+Siwan	21.0
+Vaishali	16.0
+West Champaran	9.0
+Baloda Bazar	1.0
+Ahmedabad	9.0
+Amreli	4.0
+Junagadh	3.0
+Kachchh	6.0
+Koderma	2012.0
+Dhule	892.0
+Nanded	198.0
+Parbhani	65.0
+Angul	5.0
+Baleswar	13.0
+Bhadrak	14.0
+Jajapur	12.0
+Khorda	6.0
+Sirohi	5.0
+Kanniyakumari	7.0
+Tirunelveli	3.0
+Allahabad	137.0
+Azamgarh	16.0
+Balrampur	9.0
+Basti	9.0
+Deoria	17.0
+Faizabad	4.0
+Fatehpur	9.0
+Ghazipur	26.0
+Gorakhpur	15.0
+Hamirpur	12.0
+Kannauj	6.0
+Kaushambi	19.0
+Maharajganj	1.0
+Mau	17.0
+Mirzapur	15.0
+Pratapgarh	96.0
+Sant Kabir Nagar	7.0
+Sant Ravidas Nagar	5.0
+Shrawasti	3.0
+Siddharthnagar	9.0
+Varanasi	13.0
+Tehri Garhwal	5.0
+Barddhaman	21.0
+Hooghly	15.0
+Howrah	3.0
+Kolkata	8.0
+Murshidabad	11.0
+Paschim Medinipur	11.0
+Purba Medinipur	26.0
+Datia	360.0
+Gwalior	1083.0
+Mandla	1352.0
+Sheopur	431.0
+Auraiya	10.0
+Jhansi	8.0
+Shahjahanpur	5.0
+Pakur	3543.0
+Birbhum	4.0
+Dakshin Dinajpur	0.0
+Chittoor	0.0
+Cuddapah	4.0
+East Godavari	139.0
+Hyderabad	420.0
+K.v. Rangareddy	139.0
+Mahabubnagar	2.0
+Nalgonda	73.0
+Visakhapatnam	6.0
+Vizianagaram	5.0
+Warangal	4.0
+West Godavari	4.0
+Dhemaji	1.0
+Buxar	8.0
+Darbhanga	23.0
+Rohtas	22.0
+Surendra Nagar	9.0
+Faridabad	51.0
+Jhajjar	2304.0
+Jammu	27.0
+Kathua	4.0
+Chatra	2231.0
+Garhwa	129.0
+Gumla	375.0
+Hazaribagh	374.0
+Latehar	709.0
+Palamu	221.0
+Ramgarh	300.0
+Simdega	109.0
+Bangalore	7085.0
+Ernakulam	4.0
+Bargarh	3.0
+Kendrapara	8.0
+Amritsar	269.0
+Bathinda	570.0
+Fazilka	154.0
+SAS Nagar (Mohali)	107.0
+Tarn Taran	1625.0
+Thoothukkudi	0.0
+Tiruvannamalai	3.0
+Vellore	8.0
+Virudhunagar	5.0
+Aligarh	7.0
+Bara Banki	0.0
+Bijnor	7.0
+Etah	7.0
+Gautam Buddha Nagar	26.0
+Hardoi	6.0
+Kanpur Nagar	25.0
+Saharanpur	8.0
+Bellary	1045.0
+Ramanagar	742.0
+Shimoga	1351.0
+Kasargod	0.0
+Raipur	5.0
+Pali	63.0
+Rajsamand	165.0
+Papum Pare	2.0
+Gaya	40.0
+Jehanabad	4.0
+Katihar	11.0
+Saharsa	4.0
+Samastipur	19.0
+Sitamarhi	11.0
+Supaul	5.0
+Bastar	1.0
+Central Delhi	81.0
+East Delhi	42.0
+New Delhi	5.0
+North Delhi	39.0
+North East Delhi	66.0
+North West Delhi	305.0
+South Delhi	153.0
+South West Delhi	177.0
+West Delhi	157.0
+Jamnagar	8.0
+Rajkot	3.0
+Ambala	70.0
+Bhiwani	652.0
+Gurgaon	443.0
+Hisar	3275.0
+Kaithal	50.0
+Karnal	1428.0
+Kurukshetra	607.0
+Panipat	3362.0
+Rewari	193.0
+Rohtak	789.0
+Sonipat	274.0
+Yamuna Nagar	1586.0
+Doda	4.0
+Pulwama	1.0
+Rajouri	4.0
+Udhampur	4.0
+Bokaro	428.0
+Dhanbad	1054.0
+East Singhbhum	619.0
+Giridih	167.0
+Khunti	158.0
+Seraikela-Kharsawan	826.0
+West Singhbhum	4170.0
+Balaghat	4168.0
+Harda	67.0
+Neemuch	4.0
+Bishnupur	1.0
+Others	62.0
+Faridkot	62.0
+Ferozepur	416.0
+Gurdaspur	928.0
+Jalandhar	50.0
+Kapurthala	49.0
+Pathankot	287.0
+Rupnagar	3.0
+Sri Muktsar Sahib	358.0
+Jodhpur	72.0
+Cuddalore	24.0
+Agra	9.0
+Baghpat	7.0
+Budaun	7.0
+Bulandshahr	8.0
+Firozabad	5.0
+Ghaziabad	108.0
+Meerut	14.0
+Moradabad	11.0
+Rampur	2.0
+Shamli	7.0
+Sonbhadra	65.0
+Almora	8.0
+Chamoli	7.0
+Dehradun	13.0
+Haridwar	3.0
+Nainital	4.0
+Pithoragarh	4.0
+Jalpaiguri	5.0
+Malda	4.0
+North 24 Parganas	14.0
+Puruliya	28.0
+Lohardaga	1074.0
+Lakhimpur	1.0
+Jamui	45.0
+Sheikhpura	2.0
+Korba	3.0
+Chamba	4.0
+Alirajpur	2965.0
+Burhanpur	374.0
+Dungarpur	752.0
+Thanjavur	1.0
+Banda	6.0
+Chitrakoot	17.0
+Jalaun	30.0
+Jyotiba Phule Nagar	1.0
+Munger	11.0
+Deoghar	485.0
+Dumka	353.0
+Godda	2459.0
+Hazaribag	0.0
+Jamtara	276.0
+Balangir	2.0
+Kendujhar	9.0
+Sundergarh	8.0
+Bankura	5.0
+Darrang	3.0
+Khagaria	11.0
+Bidar	346.0
+Hingoli	64.0
+Latur	387.0
+Nayagarh	2.0
+Kasganj	2.0
+Sitapur	4.0
+Nizamabad	3.0
+Dibrugarh	2.0
+Hailakandi	1.0
+Kamrup	2.0
+Nagaon	2.0
+Sonitpur	1.0
+Udalguri	2.0
+Arwal	6.0
+Kaimur (Bhabua)	7.0
+Palwal	1.0
+Kodagu	6.0
+Tumkur	17.0
+Kannur	2.0
+Kollam	5.0
+Malappuram	4.0
+Thrissur	3.0
+Cuttack	2.0
+Mayurbhanj	5.0
+Fatehgarh Sahib	2.0
+Shaheed Bhagat Singh Nagar	177.0
+Barmer	13.0
+Dindigul	5.0
+Theni	2.0
+Ambedkar Nagar	13.0
+Bareilly	3.0
+Chandauli	10.0
+Farrukhabad	3.0
+Hathras	7.0
+Lalitpur	3.0
+Lucknow	7.0
+Rae Bareli	6.0
+Udham Singh Nagar	5.0
+Darjeeling	5.0
+Nellore	6.0
+Srikakulam	1.0
+Cachar	5.0
+Kamrup Metro	1.0
+Nalbari	1.0
+Rajnandgaon	2.0
+Mahesana	2.0
+Sirmaur	2.0
+Bagalkot	33.0
+Alappuzha	1.0
+Kozhikode	3.0
+Palakkad	0.0
+Senapati	1.0
+Thoubal	1.0
+Tiruvallur	7.0
+Mathura	8.0
+Muzaffarnagar	6.0
+Unnao	2.0
+Bageshwar	3.0
+Pauri Garhwal	9.0
+Rudraprayag	2.0
+Hassan	350.0
+Valsad	30.0
+Mahoba	4.0
+Ananthapur	5.0
+Golaghat	1.0
+Sibsagar	2.0
+Bangalore Rural	141.0
+Chamrajanagar	124.0
+Chickmagalur	160.0
+Chikkaballapur	11.0
+Chitradurga	613.0
+Dakshina Kannada	70.0
+Davangere	32.0
+Dharwad	14.0
+Gadag	6.0
+Gulbarga	91.0
+Haveri	422.0
+Kolar	880.0
+Koppal	139.0
+Mandya	129.0
+Mysore	6.0
+Raichur	123.0
+Udupi	14.0
+Uttara Kannada	10.0
+Yadgir	69.0
+Kasaragod	2.0
+Imphal West	0.0
+Debagarh	1.0
+Dhenkanal	1.0
+Jagatsinghapur	2.0
+Puri	2.0
+Chennai	9.0
+Coimbatore	3.0
+Dharmapuri	2.0
+Erode	4.0
+Kancheepuram	12.0
+Krishnagiri	12.0
+Namakkal	4.0
+Salem	2.0
+Tiruppur	3.0
+Viluppuram	85.0
+Cooch Behar	2.0
+South 24 Parganas	8.0
+Uttar Dinajpur	2.0
+Krishna	0.0
+Chandigarh	31.0
+Panchkula	3.0
+Punch	1.0
+Srinagar	1.0
+Adilabad	1.0
+Karimnagar	0.0
+Jorhat	2.0
+Kottayam	2.0
+Thiruvananthapuram	3.0
+Malkangiri	1.0
+Rayagada	1.0
+Sambalpur	1.0
+Jalor	1.0
+Madurai	2.0
+Sivaganga	4.0
+The Nilgiris	1.0
+Thiruvarur	2.0
+Amethi	1.0
+Dadra and Nagar Haveli	1.0
+Amroha	7.0
+Banaskantha	4.0
+Osmanabad	209.0
+Jaisalmer	11.0
+Bahraich	2.0
+Karimganj	4.0
+Bharuch	1.0
+Vadodara	4.0
+Una	56.0
+Kupwara	1.0
+West Garo Hills	1.0
+Kanpur Dehat	6.0
+Kishanganj	8.0
+Bikaner	49.0
+Kota	351.0
+Tiruchirappalli	2.0
+Tirap	1.0
+Bongaigaon	1.0
+Dhalai	220.0
+Gomati	8.0
+Khowai	50.0
+North Tripura	51.0
+Sepahijala	22.0
+South Tripura	4.0
+Unakoti	6.0
+West Tripura	392.0
+Baksa	1.0
+Banswara	1001.0
+Solan	5.0
+Bandipore	1.0
+Sambhal	1.0
+Kargil	1.0
+Karaikal	4.0
+Puducherry	14.0
+Dhubri	1.0
+Jashpur	2.0
+Mandi	2.0
+Mewat	1.0
+Shimla	0.0
+Raebareli	0.0
+Champawat	0.0
+Kurnool	1.0
+West Siang	1.0
+Sheohar	1.0
+Patan	1.0
