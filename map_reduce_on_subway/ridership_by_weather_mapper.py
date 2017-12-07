@@ -2,8 +2,8 @@ import csv
 from util import write_key_value_pairs
 
 def transform_subway_data(data):
-    fog_status = "{}fog".format('' if data["fog"] == 1 else 'no')
-    rain_status = "{}rain".format('' if data["rain"] == 1 else 'no')
+    fog_status = "{}fog".format('' if float(data["fog"]) == 1. else 'no')
+    rain_status = "{}rain".format('' if float(data["rain"]) == 1. else 'no')
     data["weather_status"] = "{}-{}".format(fog_status, rain_status)
     return data
 
