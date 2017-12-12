@@ -1,9 +1,11 @@
+from functools import reduce
+
+
 def write_key_value_pairs(output_filename, output_dict, *keys):
-    key1, key2 = keys
-    key = output_dict[key1]
-    value = output_dict[key2]
+    str_body = reduce(lambda cur_str, key: cur_str + "{}\t".format(output_dict[key]), keys[:-1], "")
+    output_str = str_body + "{}\n".format(output_dict[keys[-1]])
     with open(output_filename, "a") as output_file:
-        output_file.write("{}\t{}\n".format(key, value))
+        output_file.write(output_str)
 
 
 def contains(keys, key):
